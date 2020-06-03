@@ -8,5 +8,6 @@ public class Order {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        System.out.println("结束了");
     }
 }
