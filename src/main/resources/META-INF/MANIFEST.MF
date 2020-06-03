@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Premain-Class: com.company.MAgent
+Can-Redefine-Classes: true
+Main-Class: com.company.Main
